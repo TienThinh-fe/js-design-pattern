@@ -8,3 +8,6 @@
 - Polluting the global namespace by defining numerous variables in the global context.
 - Passing strings rather than functions to either `setTimeout` or `setInterval`
 - Using JavaScript in an inline form, as this is inflexible.
+
+### Reference: 
+- https://dev.to/medhatdawoud/javascript-anti-patterns-2nia
